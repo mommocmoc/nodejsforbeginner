@@ -1,0 +1,19 @@
+{
+  "name": "19.basicrouting",
+  "version": "1.0.0",
+  "description": "test appnp",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "beginner"
+  ],
+  "author": "JaeHwan So",
+  "license": "ISC"
+}
